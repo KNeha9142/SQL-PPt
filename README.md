@@ -1,4 +1,4 @@
-# SQL Project: Online Bus Booking System
+# SQL Project: Online Bus Booking System.
 
 In this project, I developed a comprehensive database system for managing online bus bookings using SQL. The system was designed to handle various aspects of bus services, including user data, bus schedules, bookings, payments, and reviews. Key highlights of the project include:
 
